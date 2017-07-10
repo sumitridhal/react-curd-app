@@ -34,7 +34,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prebuild": "gulp build",
     "build": "http-server -a localhost -p 8085 -c-1",
-    "babel": "babel --presets es2015 main.js -o app/main.bundle.js",
+    "babel": "babel --presets react main.js -o app/app.js",
     "webpack": "webpack",
     "prestart": "gulp inject",
     "start": "http-server -a localhost -p 8085 -c-1"
