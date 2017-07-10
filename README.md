@@ -3,7 +3,7 @@ React  CURD
 
 ![header](https://user-images.githubusercontent.com/2717960/28021920-27f88686-65a7-11e7-94a0-9c0788b2d07d.png "Logo")
 
-An React app demonstrating CURD(create update read delete) operation using localstorage to store data. For demonstration purposes and a tutorial.
+A React app demonstrating CURD(create update read delete) operation using localstorage to store data. For demonstration purposes and a tutorial.
 
 A [Pen](http://codepen.io/sumitridhal/pen/YVPQdW) by [sumitridhal](http://codepen.io/sumitridhal) on [CodePen](http://codepen.io/).
 
