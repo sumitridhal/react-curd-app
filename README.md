@@ -19,8 +19,9 @@ A [Pen](http://codepen.io/sumitridhal/pen/YVPQdW) by [sumitridhal](http://codepe
 1. Clone the repository: `git clone https://github.com/sumitridhal/reactjs-curd-app.git`
 2. Install the application: `npm install`
 3. Install Bower Dependencies `bower install`
-3. Start the server: `npm start`
-4. View in browser at `http://localhost:8085`
+4. React Build: `webpack`
+5. Start the server: `npm start`
+6. View in browser at `http://localhost:8085`
 
 > Note: you can change `hostname` and `port` no in `packake.json` file
 
